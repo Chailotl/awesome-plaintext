@@ -36,6 +36,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 ## Publishing
 
 - [Obsidian](https://obsidian.md/)
+- [GitHub Pages](https://pages.github.com/)
 
 ## Recipes
 
