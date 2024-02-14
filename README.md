@@ -31,6 +31,13 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Journal.TXT](https://journaltxt.github.io/)
 - [Obsidian](https://obsidian.md/)
 
+## Markup Languages
+
+- [Markdown](https://www.markdownguide.org/)
+- [Org-mode](https://orgmode.org/)
+- [reStructuredText](https://docutils.sourceforge.io/rst.html)
+- [AsciiDoc](https://asciidoc.org/)
+
 ## Music Sequencing
 
 - [textbeat](https://github.com/flipcoder/textbeat)
