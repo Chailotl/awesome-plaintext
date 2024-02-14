@@ -4,7 +4,7 @@ A curated list of plaintext software and resources.
 
 Storing your data in plain text files makes them readable, version-controllable, and future-proof.
 
-- [The Unreasonable Effectiveness Of Plaint Text](https://www.youtube.com/watch?v=WgV6M1LyfNY)
+- [The Unreasonable Effectiveness Of Plain Text](https://www.youtube.com/watch?v=WgV6M1LyfNY)
 
 ## Accounting
 
