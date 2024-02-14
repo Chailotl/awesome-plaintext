@@ -4,8 +4,6 @@ A curated list of plaintext software and resources.
 
 Storing your data in plain text files makes them readable, version-controllable, and future-proof.
 
-- [The Unreasonable Effectiveness Of Plain Text](https://www.youtube.com/watch?v=WgV6M1LyfNY)
-
 ## Accounting
 
 - [Plain Text Accounting](https://plaintextaccounting.org/)
@@ -24,6 +22,10 @@ Storing your data in plain text files makes them readable, version-controllable,
 
 - [Obsidian](https://obsidian.md/)
 
+## General
+
+- [The Plain Text Project](https://plaintextproject.online/)
+
 ## Music Sequencing
 
 - [textbeat](https://github.com/flipcoder/textbeat)
@@ -33,6 +35,10 @@ Storing your data in plain text files makes them readable, version-controllable,
 
 - [Obsidian](https://obsidian.md/)
 - [Org-mode](https://orgmode.org/)
+
+## Project Management
+
+- [The Unreasonable Effectiveness Of Plain Text](https://www.youtube.com/watch?v=WgV6M1LyfNY)
 
 ## Publishing
 
