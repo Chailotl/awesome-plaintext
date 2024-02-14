@@ -16,6 +16,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Project Management](#project-management)
 - [Publishing](#publishing)
 - [Recipe Management](#recipe-management)
+- [Synchronization](#synchronization)
 - [Task Management](#task-management)
 
 ## Accounting
@@ -88,6 +89,15 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Chowdown](https://chowdown.io/)
 - [Cooklang](https://cooklang.org/)
 - [Grocery format](https://github.com/cnstoll/Grocery-Recipe-Format)
+
+## Synchronization
+
+- [SyncThing](https://syncthing.net/)
+
+### Version Control
+
+- [GitHub](https://github.com/)
+- [GitLab](https://gitlab.com/)
 
 ## Task Management
 
