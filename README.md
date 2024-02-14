@@ -20,11 +20,11 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [calcurse](https://calcurse.org/)
 - [When](https://www.lightandmatter.com/when/when.html)
 
-## Desktop Wikis
+## Desktop Wiki
 
 - [Obsidian](https://obsidian.md/)
 
-## Music
+## Music Sequencer
 
 - [textbeat](https://github.com/flipcoder/textbeat)
 - [bliplay](https://github.com/detomon/bliplay)
