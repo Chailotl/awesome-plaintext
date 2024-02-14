@@ -42,8 +42,9 @@ Storing your data in plain text files makes them readable, version-controllable,
 
 ## Publishing
 
-- [Obsidian Publish](https://obsidian.md/publish)
+- [Jekyll](https://jekyllrb.com/)
 - [GitHub Pages](https://pages.github.com/)
+- [Obsidian Publish](https://obsidian.md/publish)
 
 ## Recipe Management
 
