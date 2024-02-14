@@ -24,7 +24,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 
 - [Obsidian](https://obsidian.md/)
 
-## Music Sequencer
+## Music Sequencing
 
 - [textbeat](https://github.com/flipcoder/textbeat)
 - [bliplay](https://github.com/detomon/bliplay)
@@ -39,9 +39,11 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Obsidian Publish](https://obsidian.md/publish)
 - [GitHub Pages](https://pages.github.com/)
 
-## Recipes
+## Recipe Management
 
 - [Chowdown](https://chowdown.io/)
+- [Cooklang](https://cooklang.org/)
+- [Grocery format](https://github.com/cnstoll/Grocery-Recipe-Format)
 
 ## Task Management
 
