@@ -39,6 +39,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 ## Project Management
 
 - [The Unreasonable Effectiveness Of Plain Text](https://www.youtube.com/watch?v=WgV6M1LyfNY)
+- [GitHub Issues](https://github.com/features/issues)
 
 ## Publishing
 
