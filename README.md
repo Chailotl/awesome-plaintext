@@ -26,6 +26,11 @@ Storing your data in plain text files makes them readable, version-controllable,
 
 - [The Plain Text Project](https://plaintextproject.online/)
 
+## Journaling
+
+- [Journal.TXT](https://journaltxt.github.io/)
+- [Obsidian](https://obsidian.md/)
+
 ## Music Sequencing
 
 - [textbeat](https://github.com/flipcoder/textbeat)
