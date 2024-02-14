@@ -48,9 +48,19 @@ Storing your data in plain text files makes them readable, version-controllable,
 
 ## Publishing
 
+- [Blot](https://blot.im/)
 - [Jekyll](https://jekyllrb.com/)
-- [GitHub Pages](https://pages.github.com/)
-- [Obsidian Publish](https://obsidian.md/publish)
+- [Hugo](https://gohugo.io/)
+- [WriteFreely](https://writefreely.org/)
+- [bashblog](https://github.com/cfenollosa/bashblog)
+
+### Platforms
+
+- [GitHub Pages](https://pages.github.com/) - free
+- [Bear Blog](https://bearblog.dev/) - free
+- [mataroa](https://mataroa.blog/) - free/paid
+- [Obsidian Publish](https://obsidian.md/publish) - paid
+- [write.as](https://write.as/) - paid
 
 ## Recipe Management
 
