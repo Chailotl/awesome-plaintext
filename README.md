@@ -32,6 +32,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 - [calcurse](https://calcurse.org/)
 - [When](https://www.lightandmatter.com/when/when.html)
+- [sdep](https://git.tronto.net/sdep/file/README.md.html)
 
 ## Desktop Wiki
 
