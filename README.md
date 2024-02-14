@@ -12,6 +12,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Ledger](https://ledger-cli.org/)
 - [hledger](https://hledger.org/)
 - [Beancount](https://beancount.github.io/)
+- [Transity](https://github.com/feramhq/transity)
 
 ## Calendar
 
