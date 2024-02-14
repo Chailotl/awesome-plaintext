@@ -4,6 +4,20 @@ A curated list of plaintext software and resources.
 
 Storing your data in plain text files makes them readable, version-controllable, and future-proof.
 
+## Contents
+
+- [Accounting](#accounting)
+- [Calendar](#calendar)
+- [Desktop Wiki](#desktop-wiki)
+- [General](#general)
+- [Markup Languages](#markup-languages)
+- [Music Sequencing](#music-sequencing)
+- [Note Taking](#note-taking)
+- [Project Management](#project-management)
+- [Publishing](#publishing)
+- [Recipe Management](#recipe-management)
+- [Task Management](#task-management)
+
 ## Accounting
 
 - [Plain Text Accounting](https://plaintextaccounting.org/)
