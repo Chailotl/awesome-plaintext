@@ -52,6 +52,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 ### Data Serialization
 
 - [YAML](https://yaml.org/)
+- [JSON](https://www.json.org/json-en.html)
 
 ### Markup
 
