@@ -10,7 +10,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Calendar](#calendar)
 - [Desktop Wiki](#desktop-wiki)
 - [General](#general)
-- [Markup Languages](#markup-languages)
+- [Languages](#languages)
 - [Music Sequencing](#music-sequencing)
 - [Note Taking](#note-taking)
 - [Project Management](#project-management)
@@ -47,7 +47,13 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Journal.TXT](https://journaltxt.github.io/)
 - [Obsidian](https://obsidian.md/)
 
-## Markup Languages
+## Languages
+
+### Data Serialization
+
+- [YAML](https://yaml.org/)
+
+### Markup
 
 - [Markdown](https://www.markdownguide.org/)
 - [Org-mode](https://orgmode.org/)
