@@ -101,6 +101,9 @@ Storing your data in plain text files makes them readable, version-controllable,
 ## Synchronization
 
 - [SyncThing](https://syncthing.net/)
+- [FreeFileSync](https://freefilesync.org/)
+- [GoodSync](https://www.goodsync.com/)
+- [Resilio Connect](https://www.resilio.com/individuals/)
 
 ### Version Control
 
