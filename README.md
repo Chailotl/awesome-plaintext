@@ -83,6 +83,8 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Hugo](https://gohugo.io/)
 - [WriteFreely](https://writefreely.org/)
 - [bashblog](https://github.com/cfenollosa/bashblog)
+- [mdBook](https://rust-lang.github.io/mdBook/)
+- [Sphynx](https://www.sphinx-doc.org/)
 
 ### Platforms
 
