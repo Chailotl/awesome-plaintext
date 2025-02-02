@@ -18,6 +18,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Recipe Management](#recipe-management)
 - [Synchronization](#synchronization)
 - [Task Management](#task-management)
+- [Task Runner](#task-runner)
 
 ## Accounting
 
@@ -117,3 +118,7 @@ Storing your data in plain text files makes them readable, version-controllable,
 - [Todo.txt](http://todotxt.org/)
 - [Obsidian](https://obsidian.md/)
 - [Org-mode](https://orgmode.org/)
+
+## Task Runner
+
+- [Maid](https://github.com/egoist/maid)
